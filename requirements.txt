@@ -33,7 +33,6 @@ TgCrypto
 torrentool==1.1.0
 urllib3
 pyshorteners
-youtube_dl
 bs4
 natsort
 Pillow
