@@ -39,7 +39,6 @@ bs4
 natsort
 Pillow
 pytz
-yt-dlp
 messages
 heroku3
 html-telegraph-poster
